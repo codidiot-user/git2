@@ -1,1 +1,3 @@
-one
+ipconfig /release to see ip
+ipconfig /renew to renew ip
+ipconfig/flushdns delete dns
